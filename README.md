@@ -40,3 +40,9 @@ const double sphere_center_z = 20.0;
 
 
 You can include this `README.md` file in your project repository alongside your source code. Feel free to modify it as needed to provide additional information or instructions specific to your project.
+
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
