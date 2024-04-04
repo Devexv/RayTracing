@@ -36,6 +36,8 @@ const double sphere_radius = 10.0;
 const double sphere_center_x = WIDTH / 2;
 const double sphere_center_y = HEIGHT / 2;
 const double sphere_center_z = 20.0;
+ 
+```
 
 
 
